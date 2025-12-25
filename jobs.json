@@ -1,38 +1,29 @@
-[
-  {
-    "type": "Internship",
-    "company": "ABC Technologies",
-    "location": "Remote",
-    "applyUrl": "https://abc.com/careers",
-    "openings": [
-      {
-        "role": "Marketing Intern",
-        "duration": "3 Months",
-        "stipend": "₹10,000 / month",
-        "eligibility": "Any Graduate"
-      },
-      {
-        "role": "HR Intern",
-        "duration": "6 Months",
-        "stipend": "₹12,000 / month",
-        "eligibility": "MBA HR"
-      }
-    ]
-  },
-  {
-    "type": "Vacancy",
-    "company": "XYZ Pvt Ltd",
-    "location": "Bangalore",
-    "applyUrl": "https://linkedin.com/jobs/xyz",
-    "openings": [
-      {
-        "role": "Sales Executive",
-        "experience": "0–1 Years"
-      },
-      {
-        "role": "Business Development Executive",
-        "experience": "1–2 Years"
-      }
-    ]
-  }
-]
+{
+  "lastUpdated": "25 Oct 2025, 05:45 PM",
+  "jobs": [
+    {
+      "type": "Internship",
+      "company": "ABC Technologies",
+      "location": "Remote",
+      "applyUrl": "https://abc.com/careers",
+      "openings": [
+        {
+          "role": "Marketing Intern",
+          "stipend": "₹10,000 / month"
+        }
+      ]
+    },
+    {
+      "type": "Vacancy",
+      "company": "XYZ Pvt Ltd",
+      "location": "Bangalore",
+      "applyUrl": "https://linkedin.com/jobs/xyz",
+      "openings": [
+        {
+          "role": "Sales Executive",
+          "experience": "0–1 Years"
+        }
+      ]
+    }
+  ]
+}

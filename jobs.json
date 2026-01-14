@@ -1,8 +1,8 @@
 {
   "announcements": {
-    "title": "Welcome, Future Leaders!",
-    "message": "We are thrilled to have you here. Remember, your hard work and dedication are the keys to unlocking a bright future. Stay focused, stay motivated, and grab every opportunity that comes your way. Success is just one application away! 🚀",
-    "videoUrl": "https://www.youtube.com/watch?v=SqVrXUaVeeU"
+    "title": "Your Daily Motivation",
+    "message": "Progress happens through steady effort. Stay consistent, keep improving, and continue applying. Opportunities build over time. 🚀",
+    "videoUrl": "https://www.youtube.com/watch?v=CAa03fd7POg"
   },
   "jobs": [
     {
@@ -16,32 +16,8 @@
           "stipend": "3.25 LPA (3 LPA + 25K Bonus)",
           "experience": "Diploma - Mechanical & Allied (2026 Batch)"
         }
-      ]
-    },
-    {
-      "type": "Internship",
-      "company": "ABC Technologies",
-      "location": "Remote",
-      "applyUrl": "https://abc.com/careers",
-      "openings": [
-        {
-          "role": "Marketing Intern",
-          "stipend": "₹10,000 / month",
-          "experience": "Any Graduate"
-        }
-      ]
-    },
-    {
-      "type": "Vacancy",
-      "company": "XYZ Pvt Ltd",
-      "location": "Bangalore",
-      "applyUrl": "https://linkedin.com/jobs/xyz",
-      "openings": [
-        {
-          "role": "Sales Executive",
-          "experience": "0–1 Years"
-        }
-      ]
+      ],
+      "description": "ELIGIBILITY: 2026 Passouts with no backlogs. Role involves Design, Modelling, Drafting and Prototyping. Mandatory Aadhaar card verification and active DigiLocker account required."
     }
   ]
 }

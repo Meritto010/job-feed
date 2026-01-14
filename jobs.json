@@ -1,22 +1,20 @@
-{
-  "jobs": [
-    {
-      "company": "Capgemini",
-      "type": "Full-Time",
-      "location": "Coimbatore",
-      "openings": [
-        {
-          "role": "Software Associate",
-          "stipend": "3.25 LPA (3 LPA + 25K Bonus)",
-          "experience": "Diploma - 2026 Batch"
-        }
-      ],
-      "description": "Mechanical Engineering (and allied branches) pass outs from 2026 Batch. Role involves Design, Modelling, Drafting and Prototyping. Virtual hiring mode.",
-      "apply_link": "https://app.joinsuperset.com/join/#/signup/student/jobprofiles/76608052-13d1-4a1b-b109-e0e781f07d12",
-      "video_links": [
-        "https://www.youtube.com/watch?v=SqVrXUaVeeU",
-        "https://www.youtube.com/watch?v=Tlp7VftqGFc"
-      ]
-    }
-  ]
-}
+const AnnouncementBanner = ({ job }) => (
+  <View style={styles.announcementContainer}>
+    <Text style={styles.announcementTitle}>📢 EXCLUSIVE: {job.company} Hiring 2026</Text>
+    <Text style={styles.announcementText}>Qualification: {job.qualification}</Text>
+    <View style={styles.videoRow}>
+      <TouchableOpacity onPress={() => Linking.openURL(job.video_links[0])}>
+        <Text style={styles.videoLink}>📺 Watch Intro</Text>
+      </TouchableOpacity>
+      <TouchableOpacity onPress={() => Linking.openURL(job.video_links[1])}>
+        <Text style={styles.videoLink}>📺 Purpose Video</Text>
+      </TouchableOpacity>
+    </View>
+    <TouchableOpacity 
+      style={styles.applyButton} 
+      onPress={() => Linking.openURL(job.apply_link)}
+    >
+      <Text style={styles.applyButtonText}>Register on Superset</Text>
+    </TouchableOpacity>
+  </View>
+);

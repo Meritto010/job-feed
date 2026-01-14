@@ -1,20 +1,47 @@
-const AnnouncementBanner = ({ job }) => (
-  <View style={styles.announcementContainer}>
-    <Text style={styles.announcementTitle}>📢 EXCLUSIVE: {job.company} Hiring 2026</Text>
-    <Text style={styles.announcementText}>Qualification: {job.qualification}</Text>
-    <View style={styles.videoRow}>
-      <TouchableOpacity onPress={() => Linking.openURL(job.video_links[0])}>
-        <Text style={styles.videoLink}>📺 Watch Intro</Text>
-      </TouchableOpacity>
-      <TouchableOpacity onPress={() => Linking.openURL(job.video_links[1])}>
-        <Text style={styles.videoLink}>📺 Purpose Video</Text>
-      </TouchableOpacity>
-    </View>
-    <TouchableOpacity 
-      style={styles.applyButton} 
-      onPress={() => Linking.openURL(job.apply_link)}
-    >
-      <Text style={styles.applyButtonText}>Register on Superset</Text>
-    </TouchableOpacity>
-  </View>
-);
+{
+  "announcements": {
+    "title": "Welcome, Future Leaders!",
+    "message": "We are thrilled to have you here. Remember, your hard work and dedication are the keys to unlocking a bright future. Stay focused, stay motivated, and grab every opportunity that comes your way. Success is just one application away! 🚀",
+    "videoUrl": "https://www.youtube.com/watch?v=SqVrXUaVeeU"
+  },
+  "jobs": [
+    {
+      "company": "Capgemini",
+      "type": "Diploma Hiring 2026",
+      "location": "Coimbatore",
+      "applyUrl": "https://app.joinsuperset.com/join/#/signup/student/jobprofiles/76608052-13d1-4a1b-b109-e0e781f07d12",
+      "openings": [
+        {
+          "role": "Software Associate",
+          "stipend": "3.25 LPA (3 LPA + 25K Bonus)",
+          "experience": "Diploma - Mechanical & Allied (2026 Batch)"
+        }
+      ]
+    },
+    {
+      "type": "Internship",
+      "company": "ABC Technologies",
+      "location": "Remote",
+      "applyUrl": "https://abc.com/careers",
+      "openings": [
+        {
+          "role": "Marketing Intern",
+          "stipend": "₹10,000 / month",
+          "experience": "Any Graduate"
+        }
+      ]
+    },
+    {
+      "type": "Vacancy",
+      "company": "XYZ Pvt Ltd",
+      "location": "Bangalore",
+      "applyUrl": "https://linkedin.com/jobs/xyz",
+      "openings": [
+        {
+          "role": "Sales Executive",
+          "experience": "0–1 Years"
+        }
+      ]
+    }
+  ]
+}

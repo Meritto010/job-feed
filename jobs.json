@@ -1,17 +1,21 @@
 {
-  "announcements": {
-    "title": "Walk-in Interview Tips",
-    "message": "Carry 3 copies of your resume and arrive 15 mins early. Watch this for motivation!",
-    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
-  },
   "jobs": [
     {
-      "type": "Internship",
-      "company": "ABC Technologies",
-      "location": "Remote",
-      "applyUrl": "https://abc.com/careers",
+      "company": "Capgemini",
+      "type": "Full-Time",
+      "location": "Coimbatore",
       "openings": [
-        { "role": "Marketing Intern", "stipend": "₹10,000 / month" }
+        {
+          "role": "Software Associate",
+          "stipend": "3.25 LPA (3 LPA + 25K Bonus)",
+          "experience": "Diploma - 2026 Batch"
+        }
+      ],
+      "description": "Mechanical Engineering (and allied branches) pass outs from 2026 Batch. Role involves Design, Modelling, Drafting and Prototyping. Virtual hiring mode.",
+      "apply_link": "https://app.joinsuperset.com/join/#/signup/student/jobprofiles/76608052-13d1-4a1b-b109-e0e781f07d12",
+      "video_links": [
+        "https://www.youtube.com/watch?v=SqVrXUaVeeU",
+        "https://www.youtube.com/watch?v=Tlp7VftqGFc"
       ]
     }
   ]

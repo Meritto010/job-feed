@@ -1,8 +1,8 @@
 {
   "announcements": {
-    "title": "Your Daily Motivation",
-    "message": "Progress happens through steady effort. Stay consistent, keep improving, and continue applying. Opportunities build over time. 🚀",
-    "videoUrl": "https://www.youtube.com/watch?v=CAa03fd7POg"
+    "title": "Career Insight for Today",
+    "message": "Strong careers are built through skills, perseverance, and consistent effort. Learn from global experts and apply steadily.",
+    "videoUrl": "https://www.ted.com/talks/scott_dinsmore_how_to_find_work_you_love"
   },
   "jobs": [
     {
@@ -18,6 +18,146 @@
         }
       ],
       "description": "ELIGIBILITY: 2026 Passouts with no backlogs. Role involves Design, Modelling, Drafting and Prototyping. Mandatory Aadhaar card verification and active DigiLocker account required."
+    },
+    {
+      "company": "Capgemini",
+      "type": "Engineering Services Hiring",
+      "location": "Bangalore",
+      "applyUrl": "https://www.capgemini.com/careers",
+      "openings": [
+        {
+          "role": "CAD / PLM Engineer – Trainee",
+          "stipend": "3.5 LPA",
+          "experience": "Diploma / BE - Mechanical & Allied (2026 Batch)"
+        }
+      ],
+      "description": "Design and modelling for product lifecycle management. Fresh candidates with good CAD fundamentals preferred."
+    },
+    {
+      "company": "Wipro",
+      "type": "Wipro SIM Program",
+      "location": "PAN India",
+      "applyUrl": "https://careers.wipro.com",
+      "openings": [
+        {
+          "role": "System Support / Infrastructure Engineer",
+          "stipend": "2.8–3.5 LPA",
+          "experience": "Diploma - Electrical, Electronics, CS, IT"
+        }
+      ],
+      "description": "Wipro SIM is an earn-and-learn program focused on IT infrastructure and support roles."
+    },
+    {
+      "company": "Wipro",
+      "type": "Engineering Services Hiring",
+      "location": "Bangalore / Hyderabad",
+      "applyUrl": "https://careers.wipro.com",
+      "openings": [
+        {
+          "role": "Project Engineer – Trainee",
+          "stipend": "3.0 LPA",
+          "experience": "Diploma - Mechanical / Electrical / EEE"
+        }
+      ],
+      "description": "Entry-level engineering roles in project execution and support."
+    },
+    {
+      "company": "L&T Construction",
+      "type": "Site Hiring",
+      "location": "Kerala / Tamil Nadu",
+      "applyUrl": "https://www.larsentoubro.com/careers",
+      "openings": [
+        {
+          "role": "Site Supervisor – Trainee",
+          "stipend": "2.6 LPA",
+          "experience": "Diploma - Civil"
+        }
+      ],
+      "description": "Site execution, safety management, and reporting for infrastructure projects."
+    },
+    {
+      "company": "L&T Electrical & Automation",
+      "type": "EPC Projects Hiring",
+      "location": "PAN India",
+      "applyUrl": "https://www.lntecc.com/careers",
+      "openings": [
+        {
+          "role": "Electrical Site Engineer – Trainee",
+          "stipend": "3.2 LPA",
+          "experience": "Diploma - Electrical / EEE"
+        }
+      ],
+      "description": "Work on electrical EPC projects including substations and industrial installations."
+    },
+    {
+      "company": "L&T Heavy Engineering",
+      "type": "Manufacturing Opportunities",
+      "location": "Hazira / Chennai",
+      "applyUrl": "https://careers.larsentoubro.com",
+      "openings": [
+        {
+          "role": "Junior Engineer – Production",
+          "stipend": "3.0 LPA",
+          "experience": "Diploma - Mechanical"
+        }
+      ],
+      "description": "Manufacturing and production roles in heavy engineering units."
+    },
+    {
+      "company": "Schneider Electric",
+      "type": "Graduate / Diploma Hiring",
+      "location": "Bangalore / Hyderabad",
+      "applyUrl": "https://www.se.com/in/en/about-us/careers",
+      "openings": [
+        {
+          "role": "Application Engineer – Trainee",
+          "stipend": "3.5 LPA",
+          "experience": "Diploma - Electrical / Electronics"
+        }
+      ],
+      "description": "Work with energy management and automation solutions."
+    },
+    {
+      "company": "Schneider Electric",
+      "type": "Plant Operations",
+      "location": "Tamil Nadu",
+      "applyUrl": "https://www.se.com/in/en/about-us/careers",
+      "openings": [
+        {
+          "role": "Junior Maintenance Engineer",
+          "stipend": "3.2 LPA",
+          "experience": "Diploma - Electrical / Mechanical"
+        }
+      ],
+      "description": "Maintenance and reliability roles in manufacturing environment."
+    },
+    {
+      "company": "Prime Construction Co.",
+      "type": "Infrastructure Projects",
+      "location": "South India",
+      "applyUrl": "https://primeconstruction.example/apply",
+      "openings": [
+        {
+          "role": "Junior Site Engineer",
+          "stipend": "2.8 LPA",
+          "experience": "Diploma - Civil / Electrical"
+        }
+      ],
+      "description": "Site-based engineering work for road and building projects."
+    },
+    {
+      "company": "Advanced Electrical Contractors",
+      "type": "Industrial Electrical Hiring",
+      "location": "Kerala / Tamil Nadu",
+      "applyUrl": "https://aec.example/careers",
+      "openings": [
+        {
+          "role": "Electrical Supervisor – Trainee",
+          "stipend": "2.7 LPA",
+          "experience": "Diploma - Electrical"
+        }
+      ],
+      "description": "Industrial electrical installation, testing, and commissioning support."
     }
   ]
 }

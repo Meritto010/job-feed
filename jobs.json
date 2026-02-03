@@ -1,40 +1,166 @@
 {
-  "event": {
-    "title": "Startup Summit 2026 – Precursor Event & Nodal Officer’s Meet (North Zone)",
-    "organizer": "Innovation and Entrepreneurship Development Centre (IEDC)",
-    "institution": "MES College of Engineering, Kuttippuram",
-    "venue": "Main Seminar Hall, Main Block (305)",
-    "schedule": [
-      {
-        "time": "09:00 – 09:45",
-        "session": "Registration"
-      },
-      {
-        "time": "09:45 – 10:15",
-        "session": "Inauguration"
-      },
-      {
-        "time": "10:15 – 10:45",
-        "session": "Session 1",
-        "title": "Innovate from Nature",
-        "speaker": {
-          "name": "Dr. Jippu Jacob",
-          "designation": "Professor",
-          "institution": "Amal Jyothi College of Engineering"
+  "announcements": {
+    "title": "Startup Summit 2026",
+    "message": "Precursor Event & Nodal Officer’s Meet (North Zone) | IEDC – MES College of Engineering, Kuttippuram",
+    "videoUrl": ""
+  },
+  "jobs": [
+    {
+      "company": "IEDC – MES College of Engineering",
+      "type": "Registration",
+      "location": "Main Seminar Hall, Main Block (305)",
+      "applyUrl": "",
+      "openings": [
+        {
+          "role": "Registration",
+          "stipend": "",
+          "experience": "09:00 – 09:45 am"
         }
-      },
-      {
-        "time": "10:45 – 11:30",
-        "session": "Session 2",
-        "title": "Cluster Model: Structure, Roles and Governance",
-        "speaker": {
-          "name": "Mr. Adarsh V",
-          "designation": "Project Assistant",
-          "institution": "Kerala Startup Mission"
+      ],
+      "description": "Participant registration"
+    },
+    {
+      "company": "IEDC – MES College of Engineering",
+      "type": "Inauguration",
+      "location": "Main Seminar Hall, Main Block (305)",
+      "applyUrl": "",
+      "openings": [
+        {
+          "role": "Inaugural Session",
+          "stipend": "",
+          "experience": "09:45 – 10:15 am"
         }
-      },
-      {
-        "time": "11:30 – 11:45",
+      ],
+      "description": "Formal inauguration of Startup Summit 2026 precursor event"
+    },
+    {
+      "company": "Amal Jyothi College of Engineering",
+      "type": "Session 1",
+      "location": "Main Seminar Hall, Main Block (305)",
+      "applyUrl": "",
+      "openings": [
+        {
+          "role": "Innovate from Nature",
+          "stipend": "",
+          "experience": "10:15 – 10:45 am"
+        }
+      ],
+      "description": "Speaker: Dr. Jippu Jacob, Professor"
+    },
+    {
+      "company": "Kerala Startup Mission",
+      "type": "Session 2",
+      "location": "Main Seminar Hall, Main Block (305)",
+      "applyUrl": "",
+      "openings": [
+        {
+          "role": "Cluster Model: Structure, Roles and Governance",
+          "stipend": "",
+          "experience": "10:45 – 11:30 am"
+        }
+      ],
+      "description": "Speaker: Mr. Adarsh V, Project Assistant"
+    },
+    {
+      "company": "IEDC – MES College of Engineering",
+      "type": "Break",
+      "location": "Campus",
+      "applyUrl": "",
+      "openings": [
+        {
+          "role": "Tea Break",
+          "stipend": "",
+          "experience": "11:30 – 11:45 am"
+        }
+      ],
+      "description": "Refreshment break"
+    },
+    {
+      "company": "Startup Valley – Amal Jyothi College of Engineering",
+      "type": "Session 3",
+      "location": "Main Seminar Hall, Main Block (305)",
+      "applyUrl": "",
+      "openings": [
+        {
+          "role": "Startup Summit 2026: From Start to Slush and Beyond",
+          "stipend": "",
+          "experience": "11:45 – 12:15 pm"
+        }
+      ],
+      "description": "Speaker: Dr. Sherin Sam Jose, CEO – Startup Valley"
+    },
+    {
+      "company": "St. Joseph’s College of Engineering and Technology, Palai",
+      "type": "Session 4",
+      "location": "Main Seminar Hall, Main Block (305)",
+      "applyUrl": "",
+      "openings": [
+        {
+          "role": "Strengthening IEDC Initiative & Strategic Readiness for CEO Interactions",
+          "stipend": "",
+          "experience": "12:15 – 01:00 pm"
+        }
+      ],
+      "description": "Speaker: Mr. Sarju S, IEDC Nodal Officer"
+    },
+    {
+      "company": "IEDC – MES College of Engineering",
+      "type": "Break",
+      "location": "Campus",
+      "applyUrl": "",
+      "openings": [
+        {
+          "role": "Lunch Break",
+          "stipend": "",
+          "experience": "01:00 – 02:00 pm"
+        }
+      ],
+      "description": "Lunch"
+    },
+    {
+      "company": "Amal Jyothi College of Engineering",
+      "type": "Session 5",
+      "location": "Main Seminar Hall, Main Block (305)",
+      "applyUrl": "",
+      "openings": [
+        {
+          "role": "Roadmap to IEDC Startup Summit 2026",
+          "stipend": "",
+          "experience": "02:00 – 03:00 pm"
+        }
+      ],
+      "description": "Speaker: Dr. Abi Varghese, Assistant Professor"
+    },
+    {
+      "company": "IEDC – MES College of Engineering",
+      "type": "Feedback",
+      "location": "Main Seminar Hall, Main Block (305)",
+      "applyUrl": "",
+      "openings": [
+        {
+          "role": "Feedback Session",
+          "stipend": "",
+          "experience": "03:00 – 03:15 pm"
+        }
+      ],
+      "description": "Participant feedback"
+    },
+    {
+      "company": "IEDC – MES College of Engineering",
+      "type": "Break",
+      "location": "Campus",
+      "applyUrl": "",
+      "openings": [
+        {
+          "role": "Tea Break",
+          "stipend": "",
+          "experience": "03:15 – 03:30 pm"
+        }
+      ],
+      "description": "Refreshment break"
+    }
+  ]
+}        "time": "11:30 – 11:45",
         "session": "Tea Break"
       },
       {
@@ -208,4 +334,5 @@
     }
   ]
 }
+
 

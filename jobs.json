@@ -1,40 +1,87 @@
 {
-  "announcements": {
-    "title": "Career Insight for Today",
-    "message": "Strong careers are built through skills, perseverance, and consistent effort. Learn from global experts and apply steadily.",
-    "videoUrl": "https://www.ted.com/talks/scott_dinsmore_how_to_find_work_you_love"
-  },
-  "jobs": [
-    {
-      "company": "Capgemini",
-      "type": "Diploma Hiring 2026",
-      "location": "Coimbatore",
-      "applyUrl": "https://app.joinsuperset.com/join/#/signup/student/jobprofiles/76608052-13d1-4a1b-b109-e0e781f07d12",
-      "openings": [
-        {
-          "role": "Software Associate",
-          "stipend": "3.25 LPA (3 LPA + 25K Bonus)",
-          "experience": "Diploma - Mechanical & Allied (2026 Batch)"
+  "event": {
+    "title": "Startup Summit 2026 – Precursor Event & Nodal Officer’s Meet (North Zone)",
+    "organizer": "Innovation and Entrepreneurship Development Centre (IEDC)",
+    "institution": "MES College of Engineering, Kuttippuram",
+    "venue": "Main Seminar Hall, Main Block (305)",
+    "schedule": [
+      {
+        "time": "09:00 – 09:45",
+        "session": "Registration"
+      },
+      {
+        "time": "09:45 – 10:15",
+        "session": "Inauguration"
+      },
+      {
+        "time": "10:15 – 10:45",
+        "session": "Session 1",
+        "title": "Innovate from Nature",
+        "speaker": {
+          "name": "Dr. Jippu Jacob",
+          "designation": "Professor",
+          "institution": "Amal Jyothi College of Engineering"
         }
-      ],
-      "description": "ELIGIBILITY: 2026 Passouts with no backlogs. Role involves Design, Modelling, Drafting and Prototyping. Mandatory Aadhaar card verification and active DigiLocker account required."
-    },
-    {
-      "company": "Capgemini",
-      "type": "Engineering Services Hiring",
-      "location": "Bangalore",
-      "applyUrl": "https://www.capgemini.com/careers",
-      "openings": [
-        {
-          "role": "CAD / PLM Engineer – Trainee",
-          "stipend": "3.5 LPA",
-          "experience": "Diploma / BE - Mechanical & Allied (2026 Batch)"
+      },
+      {
+        "time": "10:45 – 11:30",
+        "session": "Session 2",
+        "title": "Cluster Model: Structure, Roles and Governance",
+        "speaker": {
+          "name": "Mr. Adarsh V",
+          "designation": "Project Assistant",
+          "institution": "Kerala Startup Mission"
         }
-      ],
-      "description": "Design and modelling for product lifecycle management. Fresh candidates with good CAD fundamentals preferred."
-    },
-    {
-      "company": "Wipro",
+      },
+      {
+        "time": "11:30 – 11:45",
+        "session": "Tea Break"
+      },
+      {
+        "time": "11:45 – 12:15",
+        "session": "Session 3",
+        "title": "Startup Summit 2026: From Start to Slush and Beyond",
+        "speaker": {
+          "name": "Dr. Sherin Sam Jose",
+          "designation": "CEO – Startup Valley",
+          "institution": "Amal Jyothi College of Engineering"
+        }
+      },
+      {
+        "time": "12:15 – 13:00",
+        "session": "Session 4",
+        "title": "Strengthening IEDC Initiative & Strategic Readiness for CEO Interactions",
+        "speaker": {
+          "name": "Mr. Sarju S",
+          "designation": "IEDC Nodal Officer",
+          "institution": "St. Joseph’s College of Engineering and Technology, Palai"
+        }
+      },
+      {
+        "time": "13:00 – 14:00",
+        "session": "Lunch Break"
+      },
+      {
+        "time": "14:00 – 15:00",
+        "session": "Session 5",
+        "title": "Roadmap to IEDC Startup Summit 2026",
+        "speaker": {
+          "name": "Dr. Abi Varghese",
+          "designation": "Assistant Professor",
+          "institution": "Amal Jyothi College of Engineering"
+        }
+      },
+      {
+        "time": "15:00 – 15:15",
+        "session": "Feedback"
+      },
+      {
+        "time": "15:15 – 15:30",
+        "session": "Tea Break"
+      }
+    ]
+  }
+}      "company": "Wipro",
       "type": "Wipro SIM Program",
       "location": "PAN India",
       "applyUrl": "https://careers.wipro.com",
@@ -161,3 +208,4 @@
     }
   ]
 }
+

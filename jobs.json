@@ -7,123 +7,123 @@
   "jobs": [
     {
       "company": "Marketing & Sales",
-      "title": "Marketing Executive (MBA Marketing)",
-      "location": "Plan and execute marketing campaigns and support customer acquisition initiatives.",
+      "type": "Marketing Executive (MBA Marketing)",
+      "location": "Plan and execute marketing campaigns and support customer acquisition.",
       "applyUrl": "mailto:inbox.hsn@gmail.com"
     },
     {
       "company": "Marketing & Sales",
-      "title": "Business Development Executive (MBA Marketing)",
+      "type": "Business Development Executive (MBA Marketing)",
       "location": "Identify new business opportunities and build client relationships.",
       "applyUrl": "mailto:inbox.hsn@gmail.com"
     },
     {
       "company": "Finance",
-      "title": "Financial Analyst (MBA Finance)",
-      "location": "Analyze financial data and prepare reports to support business decisions.",
+      "type": "Financial Analyst (MBA Finance)",
+      "location": "Analyze financial data and prepare reports for decision making.",
       "applyUrl": "mailto:inbox.hsn@gmail.com"
     },
     {
       "company": "Banking",
-      "title": "Relationship Manager (MBA Finance)",
+      "type": "Relationship Manager (MBA Finance)",
       "location": "Manage banking clients and promote financial products.",
       "applyUrl": "mailto:inbox.hsn@gmail.com"
     },
     {
       "company": "Human Resources",
-      "title": "HR Generalist (MBA HR)",
+      "type": "HR Generalist (MBA HR)",
       "location": "Manage recruitment, employee records, and HR operations.",
       "applyUrl": "mailto:inbox.hsn@gmail.com"
     },
     {
       "company": "International Trade",
-      "title": "International Sales Executive (MBA IB)",
+      "type": "International Sales Executive (MBA IB)",
       "location": "Manage overseas clients and support export sales activities.",
       "applyUrl": "mailto:inbox.hsn@gmail.com"
     },
     {
       "company": "Business Technology",
-      "title": "Business Analyst (MBA Systems)",
+      "type": "Business Analyst (MBA Systems)",
       "location": "Analyze business processes and translate requirements into solutions.",
       "applyUrl": "mailto:inbox.hsn@gmail.com"
     },
     {
       "company": "Business Administration",
-      "title": "Management Trainee (BBA)",
+      "type": "Management Trainee (BBA)",
       "location": "Support business operations and learn management functions.",
       "applyUrl": "mailto:inbox.hsn@gmail.com"
     },
     {
       "company": "Artificial Intelligence",
-      "title": "Data Analyst (BSc AI)",
-      "location": "Analyze datasets to generate insights for decision making.",
+      "type": "Data Analyst (BSc AI)",
+      "location": "Analyze datasets to generate insights for business decisions.",
       "applyUrl": "mailto:inbox.hsn@gmail.com"
     },
     {
       "company": "Information Technology",
-      "title": "IT Helpdesk Technician (BSc Computer Applications)",
+      "type": "IT Helpdesk Technician (BSc Computer Applications)",
       "location": "Provide technical support and troubleshoot IT issues.",
       "applyUrl": "mailto:inbox.hsn@gmail.com"
     },
     {
       "company": "Business Data Systems",
-      "title": "MIS Executive (BCom Computer Applications)",
+      "type": "MIS Executive (BCom Computer Applications)",
       "location": "Prepare management reports and maintain business data systems.",
       "applyUrl": "mailto:inbox.hsn@gmail.com"
     },
     {
       "company": "Accounting",
-      "title": "Accounts Executive (BCom Finance)",
+      "type": "Accounts Executive (BCom Finance)",
       "location": "Maintain accounting records and process financial transactions.",
       "applyUrl": "mailto:inbox.hsn@gmail.com"
     },
     {
       "company": "Taxation",
-      "title": "Tax Consultant (MCom)",
-      "location": "Prepare tax filings and support tax compliance processes.",
+      "type": "Tax Consultant (MCom)",
+      "location": "Prepare tax filings and support tax compliance.",
       "applyUrl": "mailto:inbox.hsn@gmail.com"
     },
     {
       "company": "Information Technology",
-      "title": "Systems Administrator (BTech IT)",
+      "type": "Systems Administrator (BTech IT)",
       "location": "Manage servers, networks, and IT infrastructure.",
       "applyUrl": "mailto:inbox.hsn@gmail.com"
     },
     {
       "company": "Software Engineering",
-      "title": "Software Developer (BTech CSE)",
-      "location": "Develop and maintain software applications and systems.",
+      "type": "Software Developer (BTech CSE)",
+      "location": "Develop and maintain software applications.",
       "applyUrl": "mailto:inbox.hsn@gmail.com"
     },
     {
       "company": "Software Engineering",
-      "title": "Software QA Tester (BTech CSE)",
-      "location": "Test software applications and ensure product quality.",
+      "type": "Software QA Tester (BTech CSE)",
+      "location": "Test software functionality and ensure product quality.",
       "applyUrl": "mailto:inbox.hsn@gmail.com"
     },
     {
       "company": "Construction",
-      "title": "Site Engineer (BTech Civil)",
-      "location": "Supervise construction activities and site operations.",
+      "type": "Site Engineer (BTech Civil)",
+      "location": "Supervise construction activities and ensure project execution.",
       "applyUrl": "mailto:inbox.hsn@gmail.com"
     },
     {
       "company": "Electrical Engineering",
-      "title": "Electrical Design Engineer (BTech Electrical)",
+      "type": "Electrical Design Engineer (BTech Electrical)",
       "location": "Design electrical systems and prepare technical drawings.",
       "applyUrl": "mailto:inbox.hsn@gmail.com"
     },
     {
       "company": "Electronics Engineering",
-      "title": "Embedded Systems Engineer (BTech ECE)",
+      "type": "Embedded Systems Engineer (BTech ECE)",
       "location": "Develop embedded hardware and software systems.",
       "applyUrl": "mailto:inbox.hsn@gmail.com"
     },
     {
       "company": "Manufacturing",
-      "title": "Production Engineer (BTech Mechanical)",
+      "type": "Production Engineer (BTech Mechanical)",
       "location": "Plan and manage manufacturing production processes.",
       "applyUrl": "mailto:inbox.hsn@gmail.com"
     }
   ]
-}
+    }

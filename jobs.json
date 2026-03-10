@@ -5,39 +5,125 @@
     "videoUrl": ""
   },
   "jobs": [
-    { "company": "Marketing Executive | MBA", "role": "Plan and execute marketing campaigns", "applyUrl": "mailto:inbox.hsn@gmail.com" },
-    { "company": "Business Development | MBA", "role": "Identify clients and generate new business", "applyUrl": "mailto:inbox.hsn@gmail.com" },
-    { "company": "Financial Analyst | MBA", "role": "Analyze financial data and prepare reports", "applyUrl": "mailto:inbox.hsn@gmail.com" },
-    { "company": "Banking Manager | MBA", "role": "Manage bank clients and financial products", "applyUrl": "mailto:inbox.hsn@gmail.com" },
-    { "company": "HR Generalist | MBA", "role": "Handle recruitment, records and HR operations", "applyUrl": "mailto:inbox.hsn@gmail.com" },
-    { "company": "Talent Acquisition | MBA", "role": "Source and recruit candidates", "applyUrl": "mailto:inbox.hsn@gmail.com" },
-    { "company": "International Sales | MBA", "role": "Manage overseas sales and clients", "applyUrl": "mailto:inbox.hsn@gmail.com" },
-    { "company": "Export Documentation | MBA", "role": "Prepare export/import shipping documents", "applyUrl": "mailto:inbox.hsn@gmail.com" },
-    { "company": "Business Analyst | MBA", "role": "Analyze business processes and requirements", "applyUrl": "mailto:inbox.hsn@gmail.com" },
-    { "company": "Systems Admin | MBA", "role": "Manage IT systems and network operations", "applyUrl": "mailto:inbox.hsn@gmail.com" },
-    { "company": "Management Trainee | BBA", "role": "Learn business operations through training", "applyUrl": "mailto:inbox.hsn@gmail.com" },
-    { "company": "Sales Executive | BBA", "role": "Sell products and manage customers", "applyUrl": "mailto:inbox.hsn@gmail.com" },
-    { "company": "AI Developer | BSc (AI)", "role": "Develop basic AI and machine learning models", "applyUrl": "mailto:inbox.hsn@gmail.com" },
-    { "company": "Data Analyst | BSc (AI)", "role": "Analyze data and generate insights", "applyUrl": "mailto:inbox.hsn@gmail.com" },
-    { "role": "IT Helpdesk | BSc (Comp App)", "company": "Provide technical support to users", "applyUrl": "mailto:inbox.hsn@gmail.com" },
-    { "company": "Software QA Tester | BSc", "role": "Test software for bugs and quality issues", "applyUrl": "mailto:inbox.hsn@gmail.com" },
-    { "company": "MIS Executive | BCom", "role": "Prepare management reports using data systems", "applyUrl": "mailto:inbox.hsn@gmail.com" },
-    { "company": "Tally / ERP Operator | BCom", "role": "Manage accounting software entries", "applyUrl": "mailto:inbox.hsn@gmail.com" },
-    { "company": "Accounts Executive | BCom", "role": "Maintain accounts and financial records", "applyUrl": "mailto:inbox.hsn@gmail.com" },
-    { "company": "Audit Assistant | BCom", "role": "Support financial audit processes", "applyUrl": "mailto:inbox.hsn@gmail.com" },
-    { "company": "Sr Accounts Exec | MCom", "role": "Handle advanced accounting and reporting", "applyUrl": "mailto:inbox.hsn@gmail.com" },
-    { "company": "Tax Consultant | MCom", "role": "Prepare and advise on tax compliance", "applyUrl": "mailto:inbox.hsn@gmail.com" },
-    { "company": "Systems Admin | BTech IT", "role": "Manage servers, systems and network", "applyUrl": "mailto:inbox.hsn@gmail.com" },
-    { "company": "Database Admin | BTech IT", "role": "Manage and maintain databases", "applyUrl": "mailto:inbox.hsn@gmail.com" },
-    { "company": "Software Dev | BTech CSE", "role": "Develop and maintain software applications", "applyUrl": "mailto:inbox.hsn@gmail.com" },
-    { "company": "Software QA | BTech CSE", "role": "Test software functionality and performance", "applyUrl": "mailto:inbox.hsn@gmail.com" },
-    { "company": "Site Engineer | BTech Civil", "role": "Supervise construction site work", "applyUrl": "mailto:inbox.hsn@gmail.com" },
-    { "company": "Project Engineer | BTech Civil", "role": "Coordinate civil engineering projects", "applyUrl": "mailto:inbox.hsn@gmail.com" },
-    { "company": "Electrical Maint | BTech", "role": "Maintain electrical systems and equipment", "applyUrl": "mailto:inbox.hsn@gmail.com" },
-    { "company": "Electrical Design | BTech", "role": "Design electrical circuits and systems", "applyUrl": "mailto:inbox.hsn@gmail.com" },
-    { "company": "Electronics Design | BTech", "role": "Design electronic components and circuits", "applyUrl": "mailto:inbox.hsn@gmail.com" },
-    { "company": "Embedded Systems | BTech", "role": "Develop embedded hardware and software", "applyUrl": "mailto:inbox.hsn@gmail.com" },
-    { "company": "Production Eng | BTech", "role": "Manage manufacturing production processes", "applyUrl": "mailto:inbox.hsn@gmail.com" },
-    { "company": "Maintenance Eng | BTech", "role": "Maintain machines and equipment", "applyUrl": "mailto:inbox.hsn@gmail.com" }
+    {
+      "company": "Marketing & Sales",
+      "title": "Marketing Executive (MBA Marketing)",
+      "location": "Plan and execute marketing campaigns and support customer acquisition initiatives.",
+      "applyUrl": "mailto:inbox.hsn@gmail.com"
+    },
+    {
+      "company": "Marketing & Sales",
+      "title": "Business Development Executive (MBA Marketing)",
+      "location": "Identify new business opportunities and build client relationships.",
+      "applyUrl": "mailto:inbox.hsn@gmail.com"
+    },
+    {
+      "company": "Finance",
+      "title": "Financial Analyst (MBA Finance)",
+      "location": "Analyze financial data and prepare reports to support business decisions.",
+      "applyUrl": "mailto:inbox.hsn@gmail.com"
+    },
+    {
+      "company": "Banking",
+      "title": "Relationship Manager (MBA Finance)",
+      "location": "Manage banking clients and promote financial products.",
+      "applyUrl": "mailto:inbox.hsn@gmail.com"
+    },
+    {
+      "company": "Human Resources",
+      "title": "HR Generalist (MBA HR)",
+      "location": "Manage recruitment, employee records, and HR operations.",
+      "applyUrl": "mailto:inbox.hsn@gmail.com"
+    },
+    {
+      "company": "International Trade",
+      "title": "International Sales Executive (MBA IB)",
+      "location": "Manage overseas clients and support export sales activities.",
+      "applyUrl": "mailto:inbox.hsn@gmail.com"
+    },
+    {
+      "company": "Business Technology",
+      "title": "Business Analyst (MBA Systems)",
+      "location": "Analyze business processes and translate requirements into solutions.",
+      "applyUrl": "mailto:inbox.hsn@gmail.com"
+    },
+    {
+      "company": "Business Administration",
+      "title": "Management Trainee (BBA)",
+      "location": "Support business operations and learn management functions.",
+      "applyUrl": "mailto:inbox.hsn@gmail.com"
+    },
+    {
+      "company": "Artificial Intelligence",
+      "title": "Data Analyst (BSc AI)",
+      "location": "Analyze datasets to generate insights for decision making.",
+      "applyUrl": "mailto:inbox.hsn@gmail.com"
+    },
+    {
+      "company": "Information Technology",
+      "title": "IT Helpdesk Technician (BSc Computer Applications)",
+      "location": "Provide technical support and troubleshoot IT issues.",
+      "applyUrl": "mailto:inbox.hsn@gmail.com"
+    },
+    {
+      "company": "Business Data Systems",
+      "title": "MIS Executive (BCom Computer Applications)",
+      "location": "Prepare management reports and maintain business data systems.",
+      "applyUrl": "mailto:inbox.hsn@gmail.com"
+    },
+    {
+      "company": "Accounting",
+      "title": "Accounts Executive (BCom Finance)",
+      "location": "Maintain accounting records and process financial transactions.",
+      "applyUrl": "mailto:inbox.hsn@gmail.com"
+    },
+    {
+      "company": "Taxation",
+      "title": "Tax Consultant (MCom)",
+      "location": "Prepare tax filings and support tax compliance processes.",
+      "applyUrl": "mailto:inbox.hsn@gmail.com"
+    },
+    {
+      "company": "Information Technology",
+      "title": "Systems Administrator (BTech IT)",
+      "location": "Manage servers, networks, and IT infrastructure.",
+      "applyUrl": "mailto:inbox.hsn@gmail.com"
+    },
+    {
+      "company": "Software Engineering",
+      "title": "Software Developer (BTech CSE)",
+      "location": "Develop and maintain software applications and systems.",
+      "applyUrl": "mailto:inbox.hsn@gmail.com"
+    },
+    {
+      "company": "Software Engineering",
+      "title": "Software QA Tester (BTech CSE)",
+      "location": "Test software applications and ensure product quality.",
+      "applyUrl": "mailto:inbox.hsn@gmail.com"
+    },
+    {
+      "company": "Construction",
+      "title": "Site Engineer (BTech Civil)",
+      "location": "Supervise construction activities and site operations.",
+      "applyUrl": "mailto:inbox.hsn@gmail.com"
+    },
+    {
+      "company": "Electrical Engineering",
+      "title": "Electrical Design Engineer (BTech Electrical)",
+      "location": "Design electrical systems and prepare technical drawings.",
+      "applyUrl": "mailto:inbox.hsn@gmail.com"
+    },
+    {
+      "company": "Electronics Engineering",
+      "title": "Embedded Systems Engineer (BTech ECE)",
+      "location": "Develop embedded hardware and software systems.",
+      "applyUrl": "mailto:inbox.hsn@gmail.com"
+    },
+    {
+      "company": "Manufacturing",
+      "title": "Production Engineer (BTech Mechanical)",
+      "location": "Plan and manage manufacturing production processes.",
+      "applyUrl": "mailto:inbox.hsn@gmail.com"
+    }
   ]
 }

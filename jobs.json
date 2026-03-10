@@ -5,63 +5,39 @@
     "videoUrl": ""
   },
   "jobs": [
-    {
-      "company": "ACE Partner Firm",
-      "type": "Management",
-      "location": "Multiple Locations",
-      "applyUrl": "mailto:inbox.hsn@gmail.com",
-      "openings": [
-        { "role": "Marketing Executive", "experience": "MBA (Marketing)", "details": "Plan and execute marketing campaigns" },
-        { "role": "Business Development Executive", "experience": "MBA (Marketing)", "details": "Identify clients and generate new business" },
-        { "role": "Financial Analyst", "experience": "MBA (Finance)", "details": "Analyze financial data and prepare reports" },
-        { "role": "Banking Relationship Manager", "experience": "MBA (Finance)", "details": "Manage bank clients and financial products" },
-        { "role": "HR Generalist", "experience": "MBA (HR)", "details": "Handle recruitment, employee records and HR operations" },
-        { "role": "Talent Acquisition Executive", "experience": "MBA (HR)", "details": "Source and recruit candidates" },
-        { "role": "International Sales Executive", "experience": "MBA (International Business)", "details": "Manage overseas sales and clients" },
-        { "role": "Export Documentation Executive", "experience": "MBA (International Business)", "details": "Prepare export/import shipping documents" },
-        { "role": "Business Analyst", "experience": "MBA (Systems)", "details": "Analyze business processes and requirements" },
-        { "role": "Systems Administrator", "experience": "MBA (Systems)", "details": "Manage IT systems and network operations" },
-        { "role": "Management Trainee", "experience": "BBA", "details": "Learn business operations through training" },
-        { "role": "Sales Executive", "experience": "BBA", "details": "Sell products and manage customers" }
-      ]
-    },
-    {
-      "company": "ACE Tech Solutions",
-      "type": "Technology",
-      "location": "Hybrid / On-site",
-      "applyUrl": "mailto:inbox.hsn@gmail.com",
-      "openings": [
-        { "role": "AI Developer (Junior)", "experience": "BSc (AI)", "details": "Develop basic AI and machine learning models" },
-        { "role": "Data Analyst", "experience": "BSc (AI)", "details": "Analyze data and generate insights" },
-        { "role": "IT Helpdesk Technician", "experience": "BSc (Computer Application)", "details": "Provide technical support to users" },
-        { "role": "Software QA Tester", "experience": "BSc (Computer Application)", "details": "Test software for bugs and quality issues" },
-        { "role": "MIS Executive", "experience": "BCom (Computer Application)", "details": "Prepare management reports using data systems" },
-        { "role": "Tally / ERP Operator", "experience": "BCom (Computer Application)", "details": "Manage accounting software entries" },
-        { "role": "Accounts Executive", "experience": "BCom (Finance)", "details": "Maintain accounts and financial records" },
-        { "role": "Audit Assistant", "experience": "BCom (Finance)", "details": "Support financial audit processes" },
-        { "role": "Senior Accounts Executive", "experience": "MCom", "details": "Handle advanced accounting and reporting" },
-        { "role": "Tax Consultant", "experience": "MCom", "details": "Prepare and advise on tax compliance" },
-        { "role": "Systems Administrator", "experience": "BTech IT", "details": "Manage servers, systems and network infrastructure" },
-        { "role": "Database Administrator (SQL)", "experience": "BTech IT", "details": "Manage and maintain databases" },
-        { "role": "Software Developer (Junior)", "experience": "BTech CSE", "details": "Develop and maintain software applications" },
-        { "role": "Software QA Tester", "experience": "BTech CSE", "details": "Test software functionality and performance" }
-      ]
-    },
-    {
-      "company": "ACE Engineering Group",
-      "type": "Engineering",
-      "location": "Project Sites",
-      "applyUrl": "mailto:inbox.hsn@gmail.com",
-      "openings": [
-        { "role": "Site Engineer", "experience": "BTech Civil", "details": "Supervise construction site work" },
-        { "role": "Project Engineer", "experience": "BTech Civil", "details": "Coordinate civil engineering projects" },
-        { "role": "Electrical Maintenance Engineer", "experience": "BTech Electrical", "details": "Maintain electrical systems and equipment" },
-        { "role": "Electrical Design Engineer", "experience": "BTech Electrical", "details": "Design electrical circuits and systems" },
-        { "role": "Electronics Design Engineer", "experience": "BTech ECE", "details": "Design electronic components and circuits" },
-        { "role": "Embedded Systems Engineer", "experience": "BTech ECE", "details": "Develop embedded hardware and software" },
-        { "role": "Production Engineer", "experience": "BTech Mechanical", "details": "Manage manufacturing production processes" },
-        { "role": "Maintenance Engineer", "experience": "BTech Mechanical", "details": "Maintain machines and equipment" }
-      ]
-    }
+    { "company": "ACE Partner Firm", "role": "Marketing Executive", "experience": "MBA (Marketing)", "applyUrl": "mailto:inbox.hsn@gmail.com" },
+    { "company": "ACE Partner Firm", "role": "Business Development Executive", "experience": "MBA (Marketing)", "applyUrl": "mailto:inbox.hsn@gmail.com" },
+    { "company": "ACE Partner Firm", "role": "Financial Analyst", "experience": "MBA (Finance)", "applyUrl": "mailto:inbox.hsn@gmail.com" },
+    { "company": "ACE Partner Firm", "role": "Banking Relationship Manager", "experience": "MBA (Finance)", "applyUrl": "mailto:inbox.hsn@gmail.com" },
+    { "company": "ACE Partner Firm", "role": "HR Generalist", "experience": "MBA (HR)", "applyUrl": "mailto:inbox.hsn@gmail.com" },
+    { "company": "ACE Partner Firm", "role": "Talent Acquisition Executive", "experience": "MBA (HR)", "applyUrl": "mailto:inbox.hsn@gmail.com" },
+    { "company": "ACE Partner Firm", "role": "International Sales Executive", "experience": "MBA (IB)", "applyUrl": "mailto:inbox.hsn@gmail.com" },
+    { "company": "ACE Partner Firm", "role": "Export Documentation Executive", "experience": "MBA (IB)", "applyUrl": "mailto:inbox.hsn@gmail.com" },
+    { "company": "ACE Partner Firm", "role": "Business Analyst", "experience": "MBA (Systems)", "applyUrl": "mailto:inbox.hsn@gmail.com" },
+    { "company": "ACE Partner Firm", "role": "Systems Administrator", "experience": "MBA (Systems)", "applyUrl": "mailto:inbox.hsn@gmail.com" },
+    { "company": "ACE Partner Firm", "role": "Management Trainee", "experience": "BBA", "applyUrl": "mailto:inbox.hsn@gmail.com" },
+    { "company": "ACE Partner Firm", "role": "Sales Executive", "experience": "BBA", "applyUrl": "mailto:inbox.hsn@gmail.com" },
+    { "company": "ACE Tech Solutions", "role": "AI Developer (Junior)", "experience": "BSc (AI)", "applyUrl": "mailto:inbox.hsn@gmail.com" },
+    { "company": "ACE Tech Solutions", "role": "Data Analyst", "experience": "BSc (AI)", "applyUrl": "mailto:inbox.hsn@gmail.com" },
+    { "company": "ACE Tech Solutions", "role": "IT Helpdesk Technician", "experience": "BSc (Computer App)", "applyUrl": "mailto:inbox.hsn@gmail.com" },
+    { "company": "ACE Tech Solutions", "role": "Software QA Tester", "experience": "BSc (Computer App)", "applyUrl": "mailto:inbox.hsn@gmail.com" },
+    { "company": "ACE Tech Solutions", "role": "MIS Executive", "experience": "BCom (Computer App)", "applyUrl": "mailto:inbox.hsn@gmail.com" },
+    { "company": "ACE Tech Solutions", "role": "Tally / ERP Operator", "experience": "BCom (Computer App)", "applyUrl": "mailto:inbox.hsn@gmail.com" },
+    { "company": "ACE Tech Solutions", "role": "Accounts Executive", "experience": "BCom (Finance)", "applyUrl": "mailto:inbox.hsn@gmail.com" },
+    { "company": "ACE Tech Solutions", "role": "Audit Assistant", "experience": "BCom (Finance)", "applyUrl": "mailto:inbox.hsn@gmail.com" },
+    { "company": "ACE Tech Solutions", "role": "Senior Accounts Executive", "experience": "MCom", "applyUrl": "mailto:inbox.hsn@gmail.com" },
+    { "company": "ACE Tech Solutions", "role": "Tax Consultant", "experience": "MCom", "applyUrl": "mailto:inbox.hsn@gmail.com" },
+    { "company": "ACE Tech Solutions", "role": "Systems Administrator", "experience": "BTech IT", "applyUrl": "mailto:inbox.hsn@gmail.com" },
+    { "company": "ACE Tech Solutions", "role": "Database Administrator (SQL)", "experience": "BTech IT", "applyUrl": "mailto:inbox.hsn@gmail.com" },
+    { "company": "ACE Tech Solutions", "role": "Software Developer (Junior)", "experience": "BTech CSE", "applyUrl": "mailto:inbox.hsn@gmail.com" },
+    { "company": "ACE Tech Solutions", "role": "Software QA Tester", "experience": "BTech CSE", "applyUrl": "mailto:inbox.hsn@gmail.com" },
+    { "company": "ACE Engineering Group", "role": "Site Engineer", "experience": "BTech Civil", "applyUrl": "mailto:inbox.hsn@gmail.com" },
+    { "company": "ACE Engineering Group", "role": "Project Engineer", "experience": "BTech Civil", "applyUrl": "mailto:inbox.hsn@gmail.com" },
+    { "company": "ACE Engineering Group", "role": "Electrical Maintenance Engineer", "experience": "BTech Electrical", "applyUrl": "mailto:inbox.hsn@gmail.com" },
+    { "company": "ACE Engineering Group", "role": "Electrical Design Engineer", "experience": "BTech Electrical", "applyUrl": "mailto:inbox.hsn@gmail.com" },
+    { "company": "ACE Engineering Group", "role": "Electronics Design Engineer", "experience": "BTech ECE", "applyUrl": "mailto:inbox.hsn@gmail.com" },
+    { "company": "ACE Engineering Group", "role": "Embedded Systems Engineer", "experience": "BTech ECE", "applyUrl": "mailto:inbox.hsn@gmail.com" },
+    { "company": "ACE Engineering Group", "role": "Production Engineer", "experience": "BTech Mechanical", "applyUrl": "mailto:inbox.hsn@gmail.com" },
+    { "company": "ACE Engineering Group", "role": "Maintenance Engineer", "experience": "BTech Mechanical", "applyUrl": "mailto:inbox.hsn@gmail.com" }
   ]
 }

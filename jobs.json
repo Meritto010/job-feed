@@ -1,129 +1,190 @@
 {
   "announcements": {
     "title": "ACE CAREERS | TALENT HUB",
-    "message": "ACE CAREERS: Connecting talent with opportunity. We guide qualified professionals from campus to career through dedicated career streams in engineering, technology, and management.",
+    "message": "ACE Careers Talent Hub connects graduates with opportunities across business, technology, healthcare and engineering sectors.",
     "videoUrl": ""
   },
   "jobs": [
+
     {
       "company": "Marketing & Sales",
-      "type": "Marketing Executive (MBA Marketing)",
-      "location": "Plan and execute marketing campaigns and support customer acquisition.",
-      "applyUrl": "mailto:inbox.hsn@gmail.com"
+      "title": "Marketing Executive (MBA Marketing)",
+      "location": "Plan marketing campaigns, support brand promotion and generate leads.",
+      "type": "Full Time",
+      "applyUrl": "mailto:inbox.hsn@gmail.com",
+      "openings":[{"role":"Marketing Executive","experience":"0-2 Years"}]
     },
+
     {
-      "company": "Marketing & Sales",
-      "type": "Business Development Executive (MBA Marketing)",
-      "location": "Identify new business opportunities and build client relationships.",
-      "applyUrl": "mailto:inbox.hsn@gmail.com"
+      "company": "Business Development",
+      "title": "Business Development Executive (MBA Marketing)",
+      "location": "Identify new clients, generate leads and expand business opportunities.",
+      "type": "Full Time",
+      "applyUrl": "mailto:inbox.hsn@gmail.com",
+      "openings":[{"role":"Business Development Executive","experience":"0-2 Years"}]
     },
+
     {
-      "company": "Finance",
-      "type": "Financial Analyst (MBA Finance)",
-      "location": "Analyze financial data and prepare reports for decision making.",
-      "applyUrl": "mailto:inbox.hsn@gmail.com"
+      "company": "Banking & Financial Services",
+      "title": "Financial Analyst (MBA Finance)",
+      "location": "Analyze financial data, prepare reports and support financial planning.",
+      "type": "Full Time",
+      "applyUrl": "mailto:inbox.hsn@gmail.com",
+      "openings":[{"role":"Financial Analyst","experience":"0-2 Years"}]
     },
+
     {
       "company": "Banking",
-      "type": "Relationship Manager (MBA Finance)",
-      "location": "Manage banking clients and promote financial products.",
-      "applyUrl": "mailto:inbox.hsn@gmail.com"
+      "title": "Relationship Manager (MBA Finance)",
+      "location": "Manage banking clients and promote financial products and services.",
+      "type": "Full Time",
+      "applyUrl": "mailto:inbox.hsn@gmail.com",
+      "openings":[{"role":"Relationship Manager","experience":"0-2 Years"}]
     },
+
     {
       "company": "Human Resources",
-      "type": "HR Generalist (MBA HR)",
-      "location": "Manage recruitment, employee records, and HR operations.",
-      "applyUrl": "mailto:inbox.hsn@gmail.com"
+      "title": "HR Generalist (MBA HR)",
+      "location": "Handle recruitment, onboarding and HR operations.",
+      "type": "Full Time",
+      "applyUrl": "mailto:inbox.hsn@gmail.com",
+      "openings":[{"role":"HR Generalist","experience":"0-2 Years"}]
     },
+
+    {
+      "company": "Recruitment Services",
+      "title": "Talent Acquisition Executive (MBA HR)",
+      "location": "Source candidates and coordinate hiring processes.",
+      "type": "Full Time",
+      "applyUrl": "mailto:inbox.hsn@gmail.com",
+      "openings":[{"role":"Talent Acquisition Executive","experience":"0-2 Years"}]
+    },
+
     {
       "company": "International Trade",
-      "type": "International Sales Executive (MBA IB)",
-      "location": "Manage overseas clients and support export sales activities.",
-      "applyUrl": "mailto:inbox.hsn@gmail.com"
+      "title": "International Sales Executive (MBA IB)",
+      "location": "Manage international clients and export sales operations.",
+      "type": "Full Time",
+      "applyUrl": "mailto:inbox.hsn@gmail.com",
+      "openings":[{"role":"International Sales Executive","experience":"0-2 Years"}]
     },
+
     {
-      "company": "Business Technology",
-      "type": "Business Analyst (MBA Systems)",
-      "location": "Analyze business processes and translate requirements into solutions.",
-      "applyUrl": "mailto:inbox.hsn@gmail.com"
+      "company": "Export & Logistics",
+      "title": "Export Documentation Executive (MBA IB)",
+      "location": "Prepare export documentation and coordinate shipping processes.",
+      "type": "Full Time",
+      "applyUrl": "mailto:inbox.hsn@gmail.com",
+      "openings":[{"role":"Export Documentation Executive","experience":"0-2 Years"}]
     },
+
+    {
+      "company": "Information Technology",
+      "title": "Business Analyst (MBA Systems)",
+      "location": "Analyze business requirements and support technology solutions.",
+      "type": "Full Time",
+      "applyUrl": "mailto:inbox.hsn@gmail.com",
+      "openings":[{"role":"Business Analyst","experience":"0-2 Years"}]
+    },
+
+    {
+      "company": "IT Infrastructure",
+      "title": "Systems Administrator (MBA Systems / BTech IT)",
+      "location": "Manage servers, network infrastructure and IT systems.",
+      "type": "Full Time",
+      "applyUrl": "mailto:inbox.hsn@gmail.com",
+      "openings":[{"role":"Systems Administrator","experience":"0-2 Years"}]
+    },
+
     {
       "company": "Business Administration",
-      "type": "Management Trainee (BBA)",
-      "location": "Support business operations and learn management functions.",
-      "applyUrl": "mailto:inbox.hsn@gmail.com"
+      "title": "Management Trainee (BBA)",
+      "location": "Assist managers and learn core business operations.",
+      "type": "Full Time",
+      "applyUrl": "mailto:inbox.hsn@gmail.com",
+      "openings":[{"role":"Management Trainee","experience":"0-2 Years"}]
     },
+
+    {
+      "company": "Retail & Sales",
+      "title": "Sales Executive (BBA)",
+      "location": "Promote products, manage customers and achieve sales targets.",
+      "type": "Full Time",
+      "applyUrl": "mailto:inbox.hsn@gmail.com",
+      "openings":[{"role":"Sales Executive","experience":"0-2 Years"}]
+    },
+
     {
       "company": "Artificial Intelligence",
-      "type": "Data Analyst (BSc AI)",
-      "location": "Analyze datasets to generate insights for business decisions.",
-      "applyUrl": "mailto:inbox.hsn@gmail.com"
+      "title": "Data Analyst (BSc AI / Computer Science)",
+      "location": "Analyze data sets and generate insights for business decisions.",
+      "type": "Full Time",
+      "applyUrl": "mailto:inbox.hsn@gmail.com",
+      "openings":[{"role":"Data Analyst","experience":"0-2 Years"}]
     },
+
     {
-      "company": "Information Technology",
-      "type": "IT Helpdesk Technician (BSc Computer Applications)",
+      "company": "Technical Support",
+      "title": "IT Helpdesk Technician (BSc Computer Applications)",
       "location": "Provide technical support and troubleshoot IT issues.",
-      "applyUrl": "mailto:inbox.hsn@gmail.com"
+      "type": "Full Time",
+      "applyUrl": "mailto:inbox.hsn@gmail.com",
+      "openings":[{"role":"IT Helpdesk Technician","experience":"0-2 Years"}]
     },
+
     {
-      "company": "Business Data Systems",
-      "type": "MIS Executive (BCom Computer Applications)",
+      "company": "Business Reporting",
+      "title": "MIS Executive (BCom Computer Applications)",
       "location": "Prepare management reports and maintain business data systems.",
-      "applyUrl": "mailto:inbox.hsn@gmail.com"
+      "type": "Full Time",
+      "applyUrl": "mailto:inbox.hsn@gmail.com",
+      "openings":[{"role":"MIS Executive","experience":"0-2 Years"}]
     },
+
     {
-      "company": "Accounting",
-      "type": "Accounts Executive (BCom Finance)",
-      "location": "Maintain accounting records and process financial transactions.",
-      "applyUrl": "mailto:inbox.hsn@gmail.com"
+      "company": "Accounting & Finance",
+      "title": "Accounts Executive (BCom Finance)",
+      "location": "Maintain financial records and manage accounting transactions.",
+      "type": "Full Time",
+      "applyUrl": "mailto:inbox.hsn@gmail.com",
+      "openings":[{"role":"Accounts Executive","experience":"0-2 Years"}]
     },
+
     {
-      "company": "Taxation",
-      "type": "Tax Consultant (MCom)",
-      "location": "Prepare tax filings and support tax compliance.",
-      "applyUrl": "mailto:inbox.hsn@gmail.com"
+      "company": "Taxation Services",
+      "title": "Tax Consultant (MCom)",
+      "location": "Assist with tax filing, GST compliance and financial reporting.",
+      "type": "Full Time",
+      "applyUrl": "mailto:inbox.hsn@gmail.com",
+      "openings":[{"role":"Tax Consultant","experience":"0-2 Years"}]
     },
+
     {
-      "company": "Information Technology",
-      "type": "Systems Administrator (BTech IT)",
-      "location": "Manage servers, networks, and IT infrastructure.",
-      "applyUrl": "mailto:inbox.hsn@gmail.com"
+      "company": "Pharmaceutical Industry",
+      "title": "Medical Representative (BSc / BPharm)",
+      "location": "Promote pharmaceutical products to doctors and healthcare providers.",
+      "type": "Full Time",
+      "applyUrl": "mailto:inbox.hsn@gmail.com",
+      "openings":[{"role":"Medical Representative","experience":"0-2 Years"}]
     },
+
     {
-      "company": "Software Engineering",
-      "type": "Software Developer (BTech CSE)",
-      "location": "Develop and maintain software applications.",
-      "applyUrl": "mailto:inbox.hsn@gmail.com"
+      "company": "Healthcare & Hospitals",
+      "title": "Staff Nurse (BSc Nursing / GNM)",
+      "location": "Provide patient care and assist doctors in hospital departments.",
+      "type": "Full Time",
+      "applyUrl": "mailto:inbox.hsn@gmail.com",
+      "openings":[{"role":"Staff Nurse","experience":"0-2 Years"}]
     },
+
     {
-      "company": "Software Engineering",
-      "type": "Software QA Tester (BTech CSE)",
-      "location": "Test software functionality and ensure product quality.",
-      "applyUrl": "mailto:inbox.hsn@gmail.com"
-    },
-    {
-      "company": "Construction",
-      "type": "Site Engineer (BTech Civil)",
-      "location": "Supervise construction activities and ensure project execution.",
-      "applyUrl": "mailto:inbox.hsn@gmail.com"
-    },
-    {
-      "company": "Electrical Engineering",
-      "type": "Electrical Design Engineer (BTech Electrical)",
-      "location": "Design electrical systems and prepare technical drawings.",
-      "applyUrl": "mailto:inbox.hsn@gmail.com"
-    },
-    {
-      "company": "Electronics Engineering",
-      "type": "Embedded Systems Engineer (BTech ECE)",
-      "location": "Develop embedded hardware and software systems.",
-      "applyUrl": "mailto:inbox.hsn@gmail.com"
-    },
-    {
-      "company": "Manufacturing",
-      "type": "Production Engineer (BTech Mechanical)",
-      "location": "Plan and manage manufacturing production processes.",
-      "applyUrl": "mailto:inbox.hsn@gmail.com"
+      "company": "Diagnostic & Allied Health",
+      "title": "Medical Lab Technician (Allied Health Sciences)",
+      "location": "Perform laboratory tests and assist diagnostic services.",
+      "type": "Full Time",
+      "applyUrl": "mailto:inbox.hsn@gmail.com",
+      "openings":[{"role":"Medical Lab Technician","experience":"0-2 Years"}]
     }
+
   ]
     }

@@ -1,190 +1,190 @@
 {
   "announcements": {
-    "title": "ACE CAREERS | TALENT HUB",
-    "message": "ACE Careers Talent Hub connects graduates with opportunities across business, technology, healthcare and engineering sectors.",
+    "title": "ACE CAREERS | CIVIL TALENT HUB",
+    "message": "ACE Careers Civil Talent Hub connects civil engineering graduates with opportunities across Gulf, Pan India and Kerala construction companies.",
     "videoUrl": ""
   },
   "jobs": [
 
     {
-      "company": "Marketing & Sales",
-      "title": "Marketing Executive (MBA Marketing)",
-      "location": "Plan marketing campaigns, support brand promotion and generate leads.",
+      "company": "Arabian Construction Company",
+      "title": "Civil Draftsman",
+      "location": "Dubai, UAE",
       "type": "Full Time",
       "applyUrl": "mailto:inbox.hsn@gmail.com",
-      "openings":[{"role":"Marketing Executive","experience":"0-2 Years"}]
+      "openings":[{"role":"Civil Draftsman","experience":"0-2 Years"}]
     },
 
     {
-      "company": "Business Development",
-      "title": "Business Development Executive (MBA Marketing)",
-      "location": "Identify new clients, generate leads and expand business opportunities.",
+      "company": "ALEC Engineering & Contracting",
+      "title": "Junior Site Engineer",
+      "location": "Dubai, UAE",
       "type": "Full Time",
       "applyUrl": "mailto:inbox.hsn@gmail.com",
-      "openings":[{"role":"Business Development Executive","experience":"0-2 Years"}]
+      "openings":[{"role":"Site Engineer","experience":"0-2 Years"}]
     },
 
     {
-      "company": "Banking & Financial Services",
-      "title": "Financial Analyst (MBA Finance)",
-      "location": "Analyze financial data, prepare reports and support financial planning.",
+      "company": "Al Naboodah Construction Group",
+      "title": "Civil Designer",
+      "location": "Dubai, UAE",
       "type": "Full Time",
       "applyUrl": "mailto:inbox.hsn@gmail.com",
-      "openings":[{"role":"Financial Analyst","experience":"0-2 Years"}]
+      "openings":[{"role":"Civil Designer","experience":"0-2 Years"}]
     },
 
     {
-      "company": "Banking",
-      "title": "Relationship Manager (MBA Finance)",
-      "location": "Manage banking clients and promote financial products and services.",
+      "company": "Consolidated Contractors Company",
+      "title": "Civil Draftsman",
+      "location": "Abu Dhabi, UAE",
       "type": "Full Time",
       "applyUrl": "mailto:inbox.hsn@gmail.com",
-      "openings":[{"role":"Relationship Manager","experience":"0-2 Years"}]
+      "openings":[{"role":"Civil Draftsman","experience":"0-2 Years"}]
     },
 
     {
-      "company": "Human Resources",
-      "title": "HR Generalist (MBA HR)",
-      "location": "Handle recruitment, onboarding and HR operations.",
+      "company": "Al Habtoor Group",
+      "title": "Site Engineer",
+      "location": "Dubai, UAE",
       "type": "Full Time",
       "applyUrl": "mailto:inbox.hsn@gmail.com",
-      "openings":[{"role":"HR Generalist","experience":"0-2 Years"}]
+      "openings":[{"role":"Site Engineer","experience":"0-2 Years"}]
     },
 
     {
-      "company": "Recruitment Services",
-      "title": "Talent Acquisition Executive (MBA HR)",
-      "location": "Source candidates and coordinate hiring processes.",
+      "company": "Larsen & Toubro",
+      "title": "Graduate Site Engineer",
+      "location": "Pan India Projects",
       "type": "Full Time",
       "applyUrl": "mailto:inbox.hsn@gmail.com",
-      "openings":[{"role":"Talent Acquisition Executive","experience":"0-2 Years"}]
+      "openings":[{"role":"Site Engineer","experience":"0-2 Years"}]
     },
 
     {
-      "company": "International Trade",
-      "title": "International Sales Executive (MBA IB)",
-      "location": "Manage international clients and export sales operations.",
+      "company": "Afcons Infrastructure",
+      "title": "Junior Site Engineer",
+      "location": "Infrastructure Projects Across India",
       "type": "Full Time",
       "applyUrl": "mailto:inbox.hsn@gmail.com",
-      "openings":[{"role":"International Sales Executive","experience":"0-2 Years"}]
+      "openings":[{"role":"Site Engineer","experience":"0-2 Years"}]
     },
 
     {
-      "company": "Export & Logistics",
-      "title": "Export Documentation Executive (MBA IB)",
-      "location": "Prepare export documentation and coordinate shipping processes.",
+      "company": "Shapoorji Pallonji Group",
+      "title": "Civil Designer",
+      "location": "Pan India Projects",
       "type": "Full Time",
       "applyUrl": "mailto:inbox.hsn@gmail.com",
-      "openings":[{"role":"Export Documentation Executive","experience":"0-2 Years"}]
+      "openings":[{"role":"Civil Designer","experience":"0-2 Years"}]
     },
 
     {
-      "company": "Information Technology",
-      "title": "Business Analyst (MBA Systems)",
-      "location": "Analyze business requirements and support technology solutions.",
+      "company": "NCC Limited",
+      "title": "Site Engineer",
+      "location": "India",
       "type": "Full Time",
       "applyUrl": "mailto:inbox.hsn@gmail.com",
-      "openings":[{"role":"Business Analyst","experience":"0-2 Years"}]
+      "openings":[{"role":"Site Engineer","experience":"0-2 Years"}]
     },
 
     {
-      "company": "IT Infrastructure",
-      "title": "Systems Administrator (MBA Systems / BTech IT)",
-      "location": "Manage servers, network infrastructure and IT systems.",
+      "company": "Tata Projects",
+      "title": "Civil Draftsman",
+      "location": "India",
       "type": "Full Time",
       "applyUrl": "mailto:inbox.hsn@gmail.com",
-      "openings":[{"role":"Systems Administrator","experience":"0-2 Years"}]
+      "openings":[{"role":"Civil Draftsman","experience":"0-2 Years"}]
     },
 
     {
-      "company": "Business Administration",
-      "title": "Management Trainee (BBA)",
-      "location": "Assist managers and learn core business operations.",
+      "company": "Uralungal Labour Contract Cooperative Society",
+      "title": "Site Engineer",
+      "location": "Kerala",
       "type": "Full Time",
       "applyUrl": "mailto:inbox.hsn@gmail.com",
-      "openings":[{"role":"Management Trainee","experience":"0-2 Years"}]
+      "openings":[{"role":"Site Engineer","experience":"0-2 Years"}]
     },
 
     {
-      "company": "Retail & Sales",
-      "title": "Sales Executive (BBA)",
-      "location": "Promote products, manage customers and achieve sales targets.",
+      "company": "Kalliyath Group",
+      "title": "Civil Draftsman",
+      "location": "Kerala",
       "type": "Full Time",
       "applyUrl": "mailto:inbox.hsn@gmail.com",
-      "openings":[{"role":"Sales Executive","experience":"0-2 Years"}]
+      "openings":[{"role":"Civil Draftsman","experience":"0-2 Years"}]
     },
 
     {
-      "company": "Artificial Intelligence",
-      "title": "Data Analyst (BSc AI / Computer Science)",
-      "location": "Analyze data sets and generate insights for business decisions.",
+      "company": "Cherian Varkey Construction Company",
+      "title": "Site Engineer",
+      "location": "Kerala",
       "type": "Full Time",
       "applyUrl": "mailto:inbox.hsn@gmail.com",
-      "openings":[{"role":"Data Analyst","experience":"0-2 Years"}]
+      "openings":[{"role":"Site Engineer","experience":"0-2 Years"}]
     },
 
     {
-      "company": "Technical Support",
-      "title": "IT Helpdesk Technician (BSc Computer Applications)",
-      "location": "Provide technical support and troubleshoot IT issues.",
+      "company": "Asset Homes",
+      "title": "Civil Designer",
+      "location": "Kochi, Kerala",
       "type": "Full Time",
       "applyUrl": "mailto:inbox.hsn@gmail.com",
-      "openings":[{"role":"IT Helpdesk Technician","experience":"0-2 Years"}]
+      "openings":[{"role":"Civil Designer","experience":"0-2 Years"}]
     },
 
     {
-      "company": "Business Reporting",
-      "title": "MIS Executive (BCom Computer Applications)",
-      "location": "Prepare management reports and maintain business data systems.",
+      "company": "Confident Group",
+      "title": "Site Engineer",
+      "location": "Kerala",
       "type": "Full Time",
       "applyUrl": "mailto:inbox.hsn@gmail.com",
-      "openings":[{"role":"MIS Executive","experience":"0-2 Years"}]
+      "openings":[{"role":"Site Engineer","experience":"0-2 Years"}]
     },
 
     {
-      "company": "Accounting & Finance",
-      "title": "Accounts Executive (BCom Finance)",
-      "location": "Maintain financial records and manage accounting transactions.",
+      "company": "Skyline Builders",
+      "title": "Civil Draftsman",
+      "location": "Kerala",
       "type": "Full Time",
       "applyUrl": "mailto:inbox.hsn@gmail.com",
-      "openings":[{"role":"Accounts Executive","experience":"0-2 Years"}]
+      "openings":[{"role":"Civil Draftsman","experience":"0-2 Years"}]
     },
 
     {
-      "company": "Taxation Services",
-      "title": "Tax Consultant (MCom)",
-      "location": "Assist with tax filing, GST compliance and financial reporting.",
+      "company": "Abad Builders",
+      "title": "Site Engineer",
+      "location": "Kochi, Kerala",
       "type": "Full Time",
       "applyUrl": "mailto:inbox.hsn@gmail.com",
-      "openings":[{"role":"Tax Consultant","experience":"0-2 Years"}]
+      "openings":[{"role":"Site Engineer","experience":"0-2 Years"}]
     },
 
     {
-      "company": "Pharmaceutical Industry",
-      "title": "Medical Representative (BSc / BPharm)",
-      "location": "Promote pharmaceutical products to doctors and healthcare providers.",
+      "company": "Olive Builders",
+      "title": "Civil Designer",
+      "location": "Kerala",
       "type": "Full Time",
       "applyUrl": "mailto:inbox.hsn@gmail.com",
-      "openings":[{"role":"Medical Representative","experience":"0-2 Years"}]
+      "openings":[{"role":"Civil Designer","experience":"0-2 Years"}]
     },
 
     {
-      "company": "Healthcare & Hospitals",
-      "title": "Staff Nurse (BSc Nursing / GNM)",
-      "location": "Provide patient care and assist doctors in hospital departments.",
+      "company": "Veegaland Developers",
+      "title": "Site Engineer",
+      "location": "Kerala",
       "type": "Full Time",
       "applyUrl": "mailto:inbox.hsn@gmail.com",
-      "openings":[{"role":"Staff Nurse","experience":"0-2 Years"}]
+      "openings":[{"role":"Site Engineer","experience":"0-2 Years"}]
     },
 
     {
-      "company": "Diagnostic & Allied Health",
-      "title": "Medical Lab Technician (Allied Health Sciences)",
-      "location": "Perform laboratory tests and assist diagnostic services.",
+      "company": "Heera Group Builders",
+      "title": "Civil Draftsman",
+      "location": "Kerala",
       "type": "Full Time",
       "applyUrl": "mailto:inbox.hsn@gmail.com",
-      "openings":[{"role":"Medical Lab Technician","experience":"0-2 Years"}]
+      "openings":[{"role":"Civil Draftsman","experience":"0-2 Years"}]
     }
 
   ]
-    }
+}
